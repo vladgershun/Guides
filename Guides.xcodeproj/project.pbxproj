@@ -12,6 +12,7 @@
 		F50520F32AA3BAF800143477 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F50520F22AA3BAF800143477 /* Preview Assets.xcassets */; };
 		F50520FA2AA3BBA700143477 /* QRCodeGeneration.swift in Sources */ = {isa = PBXBuildFile; fileRef = F50520F92AA3BBA700143477 /* QRCodeGeneration.swift */; };
 		F50520FD2AA3DA7F00143477 /* Notifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = F50520FC2AA3DA7F00143477 /* Notifications.swift */; };
+		F53115762AA4238200DE14E1 /* ScenePhase.swift in Sources */ = {isa = PBXBuildFile; fileRef = F53115752AA4238200DE14E1 /* ScenePhase.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		F50520F22AA3BAF800143477 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F50520F92AA3BBA700143477 /* QRCodeGeneration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRCodeGeneration.swift; sourceTree = "<group>"; };
 		F50520FC2AA3DA7F00143477 /* Notifications.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Notifications.swift; path = Guides/Notifications.swift; sourceTree = SOURCE_ROOT; };
+		F53115752AA4238200DE14E1 /* ScenePhase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScenePhase.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				F50520EB2AA3BAF700143477 /* GuidesApp.swift */,
 				F50520F92AA3BBA700143477 /* QRCodeGeneration.swift */,
+				F53115752AA4238200DE14E1 /* ScenePhase.swift */,
 				F50520FC2AA3DA7F00143477 /* Notifications.swift */,
 				F50520EF2AA3BAF800143477 /* Assets.xcassets */,
 				F50520F12AA3BAF800143477 /* Preview Content */,
@@ -142,6 +145,7 @@
 			files = (
 				F50520FD2AA3DA7F00143477 /* Notifications.swift in Sources */,
 				F50520EC2AA3BAF700143477 /* GuidesApp.swift in Sources */,
+				F53115762AA4238200DE14E1 /* ScenePhase.swift in Sources */,
 				F50520FA2AA3BBA700143477 /* QRCodeGeneration.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
